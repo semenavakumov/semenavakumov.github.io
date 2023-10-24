@@ -1,0 +1,37 @@
+.pathnout {
+    background-color: rgba(61, 61, 61, 0.5);
+    font-size: 25px;
+    padding: 25px 10%;
+    margin: 100px 100px;
+    display: line;
+    text-align: center;
+}
+
+h3 {
+    background-color: rgba(61, 61, 61, 0.5);
+    font-size: 35px;
+    padding: 25px 10%;
+    margin: 100px 100px;
+    display: line;
+    text-align: center;
+}
+
+h2 {
+    background-color: rgba(53, 53, 53, 0.5);
+    font-size: 50px;
+    padding: 25px 10%;
+    margin: 100px 100px;
+    display: line;
+    text-align: center;
+}
+
+
+h4 {
+    background-color: rgba(29, 29, 29, 0.5);
+    font-size: 20px;
+    padding: 25px 20%;
+    margin: 100px 100px;
+    display: line;
+    text-align: center;
+}
+

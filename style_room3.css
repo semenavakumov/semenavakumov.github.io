@@ -1,0 +1,15 @@
+.room2_new1 {
+    background-color: rgba(29, 29, 29, 0.5);
+    font-size: 20px;
+    padding: 50px 10%;
+    margin: 100px 100px;
+    display: line;
+    text-align: center;
+}
+
+.article_logo {
+    margin: 100px 39%;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+}
